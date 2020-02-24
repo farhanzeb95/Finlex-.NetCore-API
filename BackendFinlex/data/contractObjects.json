@@ -1,0 +1,42 @@
+[
+  {
+    "customerName": "Customer",
+    "customerAddress": "Customer Address",
+    "totalPrice": "Total Price",
+    "brokerName": "Broker Name",
+    "brokerAddress": "Broker Address",
+    "contractStartDate": "Contract Start Date",
+    "contractEndDate": "Contract End Date"
+
+  },
+  {
+    "customerName": "Customer1",
+    "customerAddress": "Customer Address1",
+    "totalPrice": "Total Price1",
+    "brokerName": "Broker Name1",
+    "brokerAddress": "Broker Address1",
+    "contractStartDate": "Contract Start Date1",
+    "contractEndDate": "Contract End Date1"
+
+  },
+  {
+    "customerName": "Customer2",
+    "customerAddress": "Customer Address2",
+    "totalPrice": "Total Price2",
+    "brokerName": "Broker Name2",
+    "brokerAddress": "Broker Address2",
+    "contractStartDate": "Contract Start Date2",
+    "contractEndDate": "Contract End Date2"
+
+  },
+  {
+    "customerName": "Customer3",
+    "customerAddress": "Customer Address3",
+    "totalPrice": "Total Price3",
+    "brokerName": "Broker Name3",
+    "brokerAddress": "Broker Address3",
+    "contractStartDate": "Contract Start Date3",
+    "contractEndDate": "Contract End Date3"
+
+  }
+]
