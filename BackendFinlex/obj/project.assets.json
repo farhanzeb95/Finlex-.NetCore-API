@@ -193,11 +193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malik\\Desktop\\BackendFinlex\\BackendFinlex\\BackendFinlex.csproj",
+      "projectUniqueName": "C:\\Users\\malik\\Desktop\\Finlex-.NetCore-API\\BackendFinlex\\BackendFinlex.csproj",
       "projectName": "BackendFinlex",
-      "projectPath": "C:\\Users\\malik\\Desktop\\BackendFinlex\\BackendFinlex\\BackendFinlex.csproj",
+      "projectPath": "C:\\Users\\malik\\Desktop\\Finlex-.NetCore-API\\BackendFinlex\\BackendFinlex.csproj",
       "packagesPath": "C:\\Users\\malik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malik\\Desktop\\BackendFinlex\\BackendFinlex\\obj\\",
+      "outputPath": "C:\\Users\\malik\\Desktop\\Finlex-.NetCore-API\\BackendFinlex\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
